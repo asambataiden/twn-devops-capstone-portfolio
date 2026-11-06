@@ -4,7 +4,16 @@
 
 This repository is the public entry point to six hands-on capstone implementations from the **TechWorld with Nana AI-Enhanced DevOps Bootcamp**. Each project repository contains its implementation, README, supporting documentation, validation evidence and clearly stated limitations.
 
-> **Status:** Projects documented and available for review. The Certified DevOps Practitioner badge application and acceptance have **not** been confirmed. Verification evidence describes tested states, not necessarily running infrastructure today.
+> **Status:** Awarded the **Certified DevOps Practitioner** credential by TechWorld with Nana (Credly badge shown by the credential holder in November 2026). Add the individual public Credly verification URL when available. The project evidence below describes historical test results, not necessarily running infrastructure today.
+
+## Selected engineering outcomes
+
+- **Capstone 01:** Jenkins verified a Maven build, ECR image publication and digest-identified EKS rollout (27 Oct 2026).
+- **Capstone 02:** Provisioned a dedicated Terraform-managed EKS environment, deployed Nginx with Ansible, verified idempotency and removed 58 managed resources (28 Oct 2026).
+- **Capstone 03:** Validated Jenkins-to-ECR-to-EC2 delivery via SSM, with independently checked container health and five mocked rollback tests (1 Nov 2026).
+- **Capstone 04:** Validated an 11-service Online Boutique deployment and browser shopping flow on a three-node LKE environment (25 Oct 2026).
+- **Capstone 05:** Verified Jenkins–Ansible configuration reconciliation on two EC2 hosts with HTTP 200 responses and zero reported changes (25 Oct 2026).
+- **Capstone 06:** Passed 35 Python tests and documented controlled Linode outage detection, Telegram alerting and recovery exercises (25 Oct 2026).
 
 ## Capstone projects
 
@@ -37,6 +46,6 @@ Start with the [**Certification Submission Guide**](docs/certification-submissio
 
 The projects document personal hands-on work performed during the bootcamp. Training examples, starter applications and third-party components remain attributed in the underlying project repositories. Course materials belong to **TechWorld with Nana**.
 
-Selected limitations: Capstone 02 resources were decommissioned after testing; Capstone 03 does not claim a live failure-injected rollback; Capstone 04 documents partial parity with the original course architecture. Do not interpret project evidence as official certification approval.
+Selected limitations: Capstone 02 resources were decommissioned after testing; Capstone 03 does not claim a live failure-injected rollback; Capstone 04 documents partial parity with the original course architecture. Individual project validation is evidence of implemented engineering work, not a claim of production readiness.
 
 The older module and learning portfolio is maintained separately and is not part of this public certification landing page.
