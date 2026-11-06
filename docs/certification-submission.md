@@ -2,7 +2,7 @@
 
 **Portfolio landing page:** [TWN DevOps Capstone Portfolio](../README.md)
 
-**Credential status:** The repository owner has shared their awarded **Certified DevOps Practitioner** credential from TechWorld with Nana (November 2026). Add a direct personal Credly verification link when available. This page preserves the original project submission guidance and historical evidence boundaries.
+**Credential status:** The repository owner has shared their awarded **Certified DevOps Practitioner** credential from TechWorld with Nana (November 2026). [Credly profile](https://www.credly.com/users/tamajong-asamba-aiden) provided by the credential holder; direct individual-badge URL not yet recorded. This page preserves the original project submission guidance and historical evidence boundaries.
 
 ## Six required projects
 
@@ -38,7 +38,8 @@
 - [ ] Check main-branch documentation links and diagrams before submission.
 - [x] Submit the certification application (credential subsequently awarded; exact submission details not reproduced here).
 - [ ] Save the submission date and confirmation.
-- [ ] Add the public personal Credly verification URL to this portfolio.
+- [x] Add the credential holder's Credly profile URL to this portfolio.
+- [ ] Add the direct individual badge-verification URL, if available.
 
 ## Evidence boundaries
 
