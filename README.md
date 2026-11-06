@@ -4,7 +4,7 @@
 
 This repository is the public entry point to six hands-on capstone implementations from the **TechWorld with Nana AI-Enhanced DevOps Bootcamp**. Each project repository contains its implementation, README, supporting documentation, validation evidence and clearly stated limitations.
 
-> **Status:** Awarded the **Certified DevOps Practitioner** credential by TechWorld with Nana (Credly badge shown by the credential holder in November 2026). [View credential holder's Credly profile](https://www.credly.com/users/tamajong-asamba-aiden). The direct, individual badge verification link can be added when available. The project evidence below describes historical test results, not necessarily running infrastructure today.
+> **Status:** Awarded the **Certified DevOps Practitioner** credential by TechWorld with Nana (Credly badge shown by the credential holder in November 2026). [Verify individual Credly badge](https://www.credly.com/badges/95f47332-84a4-4ee1-82c5-60a1abafdf58/public_url). The project evidence below describes historical test results, not necessarily running infrastructure today.
 
 ## Selected engineering outcomes
 
@@ -18,9 +18,9 @@ This repository is the public entry point to six hands-on capstone implementatio
 ## Credential
 
 **Certified DevOps Practitioner — TechWorld with Nana**  
-[Public Credly profile](https://www.credly.com/users/tamajong-asamba-aiden) · [Credential details and criteria](https://www.credly.com/org/techworld-with-nana/badge/certified-devops-practitioner)
+[Verify my individual badge on Credly](https://www.credly.com/badges/95f47332-84a4-4ee1-82c5-60a1abafdf58/public_url) · [Credly profile](https://www.credly.com/users/tamajong-asamba-aiden)
 
-The first link points to the credential holder's profile; the second describes the badge type, not an individual award verification.
+The individual badge URL was provided by the credential holder.
 
 ## Capstone projects
 
