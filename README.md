@@ -4,7 +4,7 @@
 
 This repository is the public entry point to six hands-on capstone implementations from the **TechWorld with Nana AI-Enhanced DevOps Bootcamp**. Each project repository contains its implementation, README, supporting documentation, validation evidence and clearly stated limitations.
 
-> **Status:** Awarded the **Certified DevOps Practitioner** credential by TechWorld with Nana (Credly badge shown by the credential holder in November 2026). Add the individual public Credly verification URL when available. The project evidence below describes historical test results, not necessarily running infrastructure today.
+> **Status:** Awarded the **Certified DevOps Practitioner** credential by TechWorld with Nana (Credly badge shown by the credential holder in November 2026). [View credential holder's Credly profile](https://www.credly.com/users/tamajong-asamba-aiden). The direct, individual badge verification link can be added when available. The project evidence below describes historical test results, not necessarily running infrastructure today.
 
 ## Selected engineering outcomes
 
@@ -14,6 +14,13 @@ This repository is the public entry point to six hands-on capstone implementatio
 - **Capstone 04:** Validated an 11-service Online Boutique deployment and browser shopping flow on a three-node LKE environment (25 Oct 2026).
 - **Capstone 05:** Verified Jenkins–Ansible configuration reconciliation on two EC2 hosts with HTTP 200 responses and zero reported changes (25 Oct 2026).
 - **Capstone 06:** Passed 35 Python tests and documented controlled Linode outage detection, Telegram alerting and recovery exercises (25 Oct 2026).
+
+## Credential
+
+**Certified DevOps Practitioner — TechWorld with Nana**  
+[Public Credly profile](https://www.credly.com/users/tamajong-asamba-aiden) · [Credential details and criteria](https://www.credly.com/org/techworld-with-nana/badge/certified-devops-practitioner)
+
+The first link points to the credential holder's profile; the second describes the badge type, not an individual award verification.
 
 ## Capstone projects
 
