@@ -2,7 +2,7 @@
 
 **Portfolio landing page:** [TWN DevOps Capstone Portfolio](../README.md)
 
-**Application status:** Preparing for submission. No claim of certification acceptance or badge issuance.
+**Credential status:** The repository owner has shared their awarded **Certified DevOps Practitioner** credential from TechWorld with Nana (November 2026). Add a direct personal Credly verification link when available. This page preserves the original project submission guidance and historical evidence boundaries.
 
 ## Six required projects
 
@@ -34,11 +34,11 @@
 - [x] Create a dedicated public capstone landing page with links to all six projects.
 - [x] Make the six capstone repositories and shared Jenkins library accessible publicly.
 - [x] Perform automated secret-history scanning of these seven repositories.
-- [ ] Review the exact fields and conditions on the official TWN application.
+- [x] Complete the official TWN validation and receive the Certified DevOps Practitioner credential (shown by the holder).
 - [ ] Check main-branch documentation links and diagrams before submission.
-- [ ] Submit the six project links and any requested evidence.
+- [x] Submit the certification application (credential subsequently awarded; exact submission details not reproduced here).
 - [ ] Save the submission date and confirmation.
-- [ ] Record Credly issuance only after badge approval.
+- [ ] Add the public personal Credly verification URL to this portfolio.
 
 ## Evidence boundaries
 
