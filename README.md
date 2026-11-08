@@ -6,6 +6,28 @@ This repository is the public entry point to six hands-on capstone implementatio
 
 > **Status:** Awarded the **Certified DevOps Practitioner** credential by TechWorld with Nana (Credly badge shown by the credential holder in November 2026). [Verify individual Credly badge](https://www.credly.com/badges/95f47332-84a4-4ee1-82c5-60a1abafdf58/public_url). The project evidence below describes historical test results, not necessarily running infrastructure today.
 
+## For recruiters and engineering managers
+
+**Senior Software Engineer | Cloud & Platform Engineering | DevOps & DevSecOps | AI-assisted automation**
+
+I bring 9+ years of enterprise software engineering experience, beginning at Deutsche Post DHL IT Services in March 2017, with a background in Java, Spring Boot, APIs and distributed systems. I have developed practical DevOps skills throughout my career and used the TechWorld with Nana program to consolidate them into connected, end-to-end delivery workflows. This portfolio is **hands-on training and independent project evidence**, not a claim that every cloud tool has been used in production employment.
+
+### Start here — three engineering case studies
+
+| If you are assessing… | Start with | Evidence to look for |
+|---|---|---|
+| Software delivery, CI/CD and Kubernetes | [Capstone 01 — Jenkins → ECR → EKS](https://github.com/asambataiden/twn-capstone-01-jenkins-ecr-eks-cicd) | Maven verification, immutable image digest, deployment approval, RBAC and rollout verification |
+| Infrastructure, secure deployment and release reliability | [Capstone 03 — Terraform + Jenkins + SSM](https://github.com/asambataiden/twn-capstone-03-complete-cicd-terraform) | Separated IAM roles, pinned Shared Library, container health verification and mocked rollback regression tests |
+| Cloud-native operations and microservices | [Capstone 04 — Kubernetes Online Boutique](https://github.com/asambataiden/twn-capstone-04-kubernetes-microservices) | Workload rollout evidence, service connectivity, manual shopping-flow tests and explicit environment limitations |
+
+**Additional work:** [Capstone 02 — Terraform & Ansible](https://github.com/asambataiden/twn-capstone-02-terraform-ansible-eks) · [Capstone 05 — Jenkins & Ansible](https://github.com/asambataiden/twn-capstone-05-ansible-jenkins) · [Capstone 06 — Python website recovery](https://github.com/asambataiden/twn-capstone-06-website-recovery).
+
+**Engineering standards:** reproducibility, least privilege, explicit release gates, idempotency, validated outcomes, accurate evidence and clear technical documentation. Refer to each project for the exact scope, implementation status, third-party starter components and remaining risks.
+
+**AI positioning:** The bootcamp included AI-enhanced learning. I use AI-assisted engineering as a professional development area; the capstones below are primarily evidence of **cloud, platform and DevOps engineering**, not proof of a production AI/ML or MLOps platform.
+
+[LinkedIn profile](https://www.linkedin.com/in/tamajong-asamba-aiden-115b42105/) · [GitHub profile](https://github.com/asambataiden)
+
 ## Selected engineering outcomes
 
 - **Capstone 01:** Jenkins verified a Maven build, ECR image publication and digest-identified EKS rollout (27 Oct 2026).
